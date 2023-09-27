@@ -1,4 +1,4 @@
-# AII_Phase1
+# AI_Phase1
 Project Title: AI-Driven Exploration and Prediction of Company Registration Trends with Registrar of Companies.
 
 Problem Definition:
